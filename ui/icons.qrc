@@ -1,0 +1,75 @@
+<RCC>
+  <qresource prefix="png">
+    <file>resources/add.png</file>
+    <file>resources/add-button.png</file>
+    <file>resources/bin.png</file>
+    <file>resources/close (1).png</file>
+    <file>resources/close.png</file>
+    <file>resources/icons8-delete-50.svg</file>
+    <file>resources/icons8-delete-500.svg</file>
+    <file>resources/trash.png</file>
+    <file>resources/save.png</file>
+    <file>resources/bookmark.png</file>
+    <file>resources/download.png</file>
+    <file>resources/question-mark.png</file>
+    <file>resources/classification.png</file>
+    <file>resources/hierarchy.png</file>
+    <file>resources/market.png</file>
+    <file>resources/market-share.png</file>
+    <file>resources/search.png</file>
+    <file>resources/previous.png</file>
+    <file>resources/next.png</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>resources/health_check.png</file>
+    <file>resources/histogram.png</file>
+    <file>resources/statistics.png</file>
+    <file>resources/umap.png</file>
+    <file>resources/fetured.jpg</file>
+    <file>resources/onboarding-classification-v8.png</file>
+    <file>resources/onboarding-iseg.png</file>
+    <file>resources/onboarding-key.png</file>
+    <file>resources/onboarding-objdet.png</file>
+    <file>resources/semantic.png</file>
+  </qresource>
+  <qresource prefix="svg">
+    <file>resources/185095_settings_icon.svg</file>
+    <file>resources/285644_folder_green_icon.svg</file>
+    <file>resources/285657_floppy_guardar_save_icon.svg</file>
+    <file>resources/285658_blue_folder_icon.svg</file>
+    <file>resources/299037_box_full_icon.svg</file>
+    <file>resources/299068_add_sign_icon.svg</file>
+    <file>resources/1215236_download_folder_win_files_save_icon.svg</file>
+    <file>resources/1976052_gallery_image_images_photo_picture_icon.svg</file>
+    <file>resources/2180881_photo_picture_upload_icon.svg</file>
+    <file>resources/2638314_arrow_scale_sign_square_symbol_icon.svg</file>
+    <file>resources/2849812_menu_multimedia_bars_media_icon.svg</file>
+    <file>resources/2931171_download_import_save_down_storage_icon.svg</file>
+    <file>resources/2931176_diskette_guardar_save_disk_drive_icon.svg</file>
+    <file>resources/3830993_begin_play_play button_start playing_icon.svg</file>
+    <file>resources/5027854_analytics_business_chart_graph_statistics_icon.svg</file>
+    <file>resources/6333183_concept_design_estimate_idea_imagination_icon.svg</file>
+    <file>resources/7720257_neuron_connections_neural_network_icon.svg</file>
+    <file>resources/8324190_ui_essential_app_folder_upload_icon.svg</file>
+    <file>resources/8664917_window_minimize_icon.svg</file>
+    <file>resources/8666542_save_icon.svg</file>
+    <file>resources/8680270_fullscreen_line_icon.svg</file>
+    <file>resources/8726268_process_icon.svg</file>
+    <file>resources/9025873_square_icon.svg</file>
+    <file>resources/9039845_bounding_box_circles_icon.svg</file>
+    <file>resources/9040506_grid_icon.svg</file>
+    <file>resources/9042837_question_mark_circle_icon.svg</file>
+    <file>resources/9110796_x_icon.svg</file>
+    <file>resources/9110928_folder_create_icon.svg</file>
+    <file>resources/9110937_camera_create_icon.svg</file>
+    <file>resources/alarm-clock-alt-svgrepo-com.svg</file>
+    <file>resources/bell-svgrepo-com.svg</file>
+    <file>resources/Detection.svg</file>
+    <file>resources/droplet-svgrepo-com.svg</file>
+    <file>resources/Image_Segmentation_clip_art.svg</file>
+    <file>resources/logo.svg</file>
+    <file>resources/Segmentation.svg</file>
+    <file>resources/sitemap.svg</file>
+    <file>resources/snow-alt-1-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
