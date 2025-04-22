@@ -1,0 +1,9 @@
+/venv
+__pycache__/
+/utils/quickTest.ipynb
+/build
+/dist
+/test
+/build
+/dist
+./main.spec
